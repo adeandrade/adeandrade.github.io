@@ -51,23 +51,16 @@ Work experience
 Skills
 ======
 
-* High-performance scientific computing
-  * Python
-  * PyTorch
-  * Numba
-  * JAX
-* Data engineering
-  * Scala
-  * Apache Spark
-  * Apache Cassandra
-  * Apache Kafka
-  * Elasticsearch
-  * SQL
-* Backend development
-  * Go
-  * ZeroMQ
-  * gRPC
-  * Kubernetes
+* High-performance scientific computing: Python, PyTorch, Numba, JAX
+* Data engineering: Scala, Apache Spark, Apache Cassandra, Apache Kafka, Elasticsearch, SQL
+* Backend development: Go, ZeroMQ, gRPC, Kubernetes
+
+Awards
+=====
+
+* Mitacs Accelerate Fellowship
+* Simon Fraser University Graduate Dean's Entrance Scholarship
+* NSERC Canada Graduate Scholarship – Doctoral
 
 Publications
 ======
@@ -82,15 +75,3 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-
-* Currently signed in to 43 different slack teams
