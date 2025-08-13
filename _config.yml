@@ -13,7 +13,7 @@ title                    : "Anderson de Andrade"
 title_separator          : "-"
 name                     : &name "Anderson de Andrade"
 description              : &description "Research scientist in information theory and machine learning"
-url                      : https://adeandrade.github.io/adeandrade # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://adeandrade.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adeandrade/adeandrade.github.io"
 
@@ -22,7 +22,7 @@ repository               : "adeandrade/adeandrade.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Anderson de Andrade"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Simon Fraser University with a research focus in information theory and machine learning."
@@ -218,13 +218,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
