@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the School of Engineering Science at Simon Fraser University (SFU). I work under the supervision of Professor Ivan V. Bajić. My current research is in designing better learnable codecs for machine tasks, e.g. classification, recognition, etc. This problem is commonly known as *coding for machines*. It lies at the intersection of information theory, learning theory, representation learning and optimization.
+I am a Ph.D. student in the School of Engineering Science at Simon Fraser University (SFU). I work under the supervision of Professor Ivan V. Bajić. My current research is in designing better learnable codecs for machine tasks, e.g. classification, recognition, etc. This problem is commonly known as *coding for machines*. It lies at the intersection of information theory, learning theory, representation learning, and optimization.
 
 Before coming to SFU, I was a research engineer in the Canadian tech industry. My focus was on learning-based natural language understanding and graph processing. Besides research, I acquired experience in optimizing, managing, and deploying deep learning models, developing batch and online data processing pipelines, and provisioning and maintaining related infrastructure.
 

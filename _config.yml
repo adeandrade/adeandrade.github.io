@@ -13,7 +13,7 @@ title                    : "Anderson de Andrade"
 title_separator          : "-"
 name                     : &name "Anderson de Andrade"
 description              : &description "Research scientist in information theory and machine learning"
-url                      : https://adeandrade.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://deandrade.ca # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adeandrade/adeandrade.github.io"
 
