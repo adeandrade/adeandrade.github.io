@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Engineering Science, Simon Fraser University, 2027 (expected)
+* Ph.D. in Engineering Science, Simon Fraser University, 2027 (expected)
 * M.S. in Applied Computing, University of Toronto, 2015
 * B.E. in Networks and Communications, Universidad Tecnológica del Centro (Venezuela), 2007
 
