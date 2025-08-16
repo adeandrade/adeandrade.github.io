@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/conditional-residual
 excerpt: 'A comparison between conditional and residual entropy codecs for a two-channel systems of tasks with nested information.'
-date: 2025-08-13
+date: 2023-08-01
 venue: 'ICME Workshop on Coding for Machines'
 slidesurl: 'http://adeandrade.github.io/files/conditional-residual-slides.pdf'
 paperurl: 'https://arxiv.org/pdf/2305.02562'

@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/training-text-classification
 excerpt: 'Benchmark of stochastic gradient descent and Nesterov''s accelerated gradient for text classification.'
-date: 2025-08-01
+date: 2013-12-15
 venue: 'arXiv'
 paperurl: "https://arxiv.org/pdf/1910.12674"
 bibtexturl : 'https://dblp.uni-trier.de/rec/journals/corr/abs-1910-12674.bib'
