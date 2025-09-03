@@ -3,7 +3,7 @@ title: "Exploring multilingual syntactic sentence representations"
 collection: publications
 category: conferences
 permalink: /publication/syntactic-representations
-excerpt: 'Syntactic sentence embeddings augmented by universal parts-of-speech tags evaluated on low-resource languages.'
+excerpt: 'Sentence embeddings augmented by universal parts-of-speech tags evaluated on low-resource languages.'
 date: 2019-11-01
 venue: 'EMNLP Workshop on Noisy User-Generated Text'
 paperurl: "https://aclanthology.org/D19-5521.pdf"
